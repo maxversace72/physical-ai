@@ -1,3 +1,4 @@
+
 # Physical AI: glossary, reading list and numbers
 
 I am Max Versace. I have spent about 25 years building brains for machines: first in a lab at Boston University, then at Neurala, now at Analog Devices. People keep asking me what Physical AI means, what to read, and which numbers matter. So I wrote it down.
@@ -112,4 +113,4 @@ If you have one evening: Brooks (1991), then McCloskey and Cohen (1989), then RT
 
 Versace, M. (2026). *Physical AI Glossary*. https://maxversace.com/physical-ai-glossary
 
-You are welcome to quote and reuse this material. Please credit Max Versace and link to the original page. If you think a term or a paper is missing, open an issue or [tell me](https://maxversace.com/contact-max-versace).
+This material is licensed under [CC BY 4.0](LICENSE.md): quote it, reuse it, adapt it. Just credit Max Versace and link to the original page. If you think a term or a paper is missing, open an issue or [tell me](https://maxversace.com/contact-max-versace).
