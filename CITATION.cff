@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "Physical AI Glossary, Reading List and Numbers"
+type: dataset
+authors:
+  - family-names: Versace
+    given-names: Massimiliano
+    alias: Max Versace
+    orcid: "https://orcid.org/0009-0001-3348-0755"
+    website: "https://maxversace.com/"
+url: "https://maxversace.com/physical-ai-glossary"
+repository-code: "https://github.com/maxversace72/physical-ai"
+keywords:
+  - physical AI
+  - embodied AI
+  - robotics
+  - continual learning
+  - neuromorphic computing
+  - edge AI
+date-released: "2026-11-17"
